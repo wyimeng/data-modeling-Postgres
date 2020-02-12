@@ -69,7 +69,7 @@ _songs: songs in music database_
 |-------|-------|---------|----|--------|
 |VARCHAR|VARCHAR|VARCHAR  |INT |NUMERIC |
 
-_artistss: artists in music database_
+_artists: artists in music database_
 
 |artist_id|name   |location|latitude|longitude|
 |---------|-------|--------|--------|---------|
